@@ -6,7 +6,7 @@ This is the list of project I am doing in my spare time. You can reach their pag
 
 2. Language model on Masnavi
 
-3. Object detection for Tello
+3. [Object detection for Tello](https://github.com/otoofim/Tello-Obj-detection)
 
 4. Face recognition for Tello
 
